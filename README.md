@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PuspaRaj-Subedi
+- 👀 I’m interested in Web Development with PHP(Laravel, HTML, CSS)
+- 🌱 I’m currently learning python for Data Science
+- 💞️ I’m looking to collaborate on People working with Data
+- 📫 How to reach me 
+- Facebook: https://www.facebook.com/pusparaj.subedi.3/
+- 
