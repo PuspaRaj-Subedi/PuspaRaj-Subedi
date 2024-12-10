@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuspaRaj-Subedi
 - 👀 I’m web developer specialized with PHP, HTML, CSS, and JS
-- 👀 I have working exprience with many frameworks and libary as Lravel, Vuejs, Wordpress, Livewire.
+- 👀 I have working exprience with many frameworks and libary as Laravel, Vuejs, Wordpress, Livewire.
 - 🌱 I’m currently learning python for Data Science
 - 💞️ I’m looking to collaborate on People working with Data Science and ML
 - 📫 How to reach me 
